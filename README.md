@@ -2,7 +2,7 @@
 
 Supported languages: Chinese (simplified), English, French, German, Italian, Norwegian, Portuguese, Russian, Spanish, Ukrainian
 
-![](https://imgur.com/a/rEiuGGH)
+![](https://i.imgur.com/AjgDVv2.png)
 
 Screenshot is intentionally low res to fit GitHub UI. See also: [1280×720](https://imgur.com/a/rEiuGGH), [1920×1080](https://imgur.com/a/rEiuGGH)
 
