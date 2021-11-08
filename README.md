@@ -1,4 +1,4 @@
-## GRUB Theme
+## REISEN | GRUB Theme
 
 Supported languages: Chinese (simplified), English, French, German, Italian, Norwegian, Portuguese, Russian, Spanish, Ukrainian
 
