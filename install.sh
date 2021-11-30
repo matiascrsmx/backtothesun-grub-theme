@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-GRUB_THEME='poly-light'
+GRUB_THEME='reisen-grub-theme'
 INSTALLER_LANG='English'
 
 # Change to temporary directory
