@@ -81,7 +81,7 @@ if [[ -e /etc/os-release ]]; then
 fi
 
 echo 'Fetching theme archive'
-wget -O ${GRUB_THEME}.zip https://github.com/shvchk/${GRUB_THEME}/archive/master.zip
+wget -O ${GRUB_THEME}.zip https://github.com/subzzone/${GRUB_THEME}/archive/master.zip
 
 echo 'Unpacking theme'
 unzip ${GRUB_THEME}.zip
