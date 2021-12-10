@@ -1,10 +1,7 @@
-## REISEN | GRUB Theme
+## Back to the Sun | GRUB Theme
 
 Supported languages: Chinese (simplified), English, French, German, Italian, Norwegian, Portuguese, Russian, Spanish, Ukrainian
 
-![](https://i.imgur.com/AjgDVv2.png)
-
-Screenshot is intentionally low res to fit GitHub UI. See also: [1280×720](https://imgur.com/a/rEiuGGH), [1920×1080](https://imgur.com/a/rEiuGGH)
 
 ---
 
@@ -12,12 +9,12 @@ Screenshot is intentionally low res to fit GitHub UI. See also: [1280×720](http
 
 1. **Secure way:**
     - Download install script:  
-    `wget -P /tmp https://github.com/subzzone/reisen-grub-theme/raw/master/install.sh`
+    `wget -P /tmp https://github.com/matiascrsmx/backtothesun-grub-theme/raw/master/install.sh`
     - Review install script at `/tmp/install.sh`
     - Run it: `bash /tmp/install.sh`
     
 2. **Easier, less secure way** — just download and run install script:  
-    `wget -O - https://github.com/subzzone/reisen-grub-theme/raw/master/install.sh | bash`
+    `wget -O - https://github.com/matiascrsmx/backtothesun-grub-theme/raw/master/install.sh | bash`
 
 ---
 
